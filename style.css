@@ -1,0 +1,44 @@
+:root {
+  --bg-color: #15181e;
+  --font-base: aliceblue;
+  --code-base: fuchsia;
+  --callout: lime;
+  --pre-base: #303235;
+}
+html,
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  background-color: var(--bg-color);
+  color: var(--font-base);
+  text-align: center;
+}
+
+section {
+  padding: 40px 0;
+}
+
+.header {
+  color: var(--code-base);
+  font-size: 24px;
+}
+
+.message {
+  color: var(--callout);
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+pre {
+  background-color: #15181e;
+  padding: 10px;
+  color: var(--code-base);
+}
+
+.button {
+  padding: 10px;
+  background-color: crimson;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
