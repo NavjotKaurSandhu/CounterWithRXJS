@@ -1,3 +1,3 @@
-# counterwithrxjs
+# Counter with rxjs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-a8ati8)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/counterwithrxjs)
