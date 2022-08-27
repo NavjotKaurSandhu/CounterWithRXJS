@@ -1,5 +1,5 @@
 # Counter with rxjs
 
-[Run](https://counterwithrxjs.stackblitz.io)
+### Counter implementation using RXJS operators
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/counterwithrxjs)
+[Run Counter App](https://counterwithrxjs.stackblitz.io)
